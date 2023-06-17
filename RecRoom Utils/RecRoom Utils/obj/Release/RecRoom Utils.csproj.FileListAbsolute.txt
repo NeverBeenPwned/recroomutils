@@ -1,0 +1,13 @@
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\bin\Release\RecRoom Utils.exe.config
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\bin\Release\RecRoom Utils.exe
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\bin\Release\RecRoom Utils.pdb
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\bin\Release\Newtonsoft.Json.dll
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\bin\Release\Newtonsoft.Json.xml
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom_Utils.Form1.resources
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom_Utils.Properties.Resources.resources
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.csproj.GenerateResource.cache
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.csproj.CoreCompileInputs.cache
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.csproj.CopyComplete
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.exe
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.pdb
+C:\Users\dersp\OneDrive\Desktop\RecRoom Utils\RecRoom Utils\RecRoom Utils\obj\Release\RecRoom Utils.csproj.AssemblyReference.cache
